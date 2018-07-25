@@ -1,0 +1,21 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "5-21G",
+    "basis_set_description": "5-21G valence double-zeta basis set",
+    "basis_set_notes": "Values from Gaussian09",
+    "basis_set_elements": {
+        "3": {
+            "element_components": [
+                "pople/5-21G_dill1975a.1.json"
+            ]
+        },
+        "4": {
+            "element_components": [
+                "pople/5-21G_binkley1977a.1.json"
+            ]
+        }
+    }
+}
