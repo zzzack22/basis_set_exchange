@@ -1,0 +1,53 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "component",
+        "schema_version": "0.1"
+    },
+    "basis_set_description": "31G valence double-zeta",
+    "basis_set_notes": "Original value from BSE 6-31G basis",
+    "basis_set_references": [
+        "ditchfield1971a"
+    ],
+    "basis_set_elements": {
+        "1": {
+            "element_electron_shells": [
+                {
+                    "shell_function_type": "gto",
+                    "shell_harmonic_type": "spherical",
+                    "shell_region": "valence",
+                    "shell_angular_momentum": [
+                        0
+                    ],
+                    "shell_exponents": [
+                        "18.7311370",
+                        "2.8253937",
+                        "0.6401217"
+                    ],
+                    "shell_coefficients": [
+                        [
+                            "0.03349460",
+                            "0.23472695",
+                            "0.81375733"
+                        ]
+                    ]
+                },
+                {
+                    "shell_function_type": "gto",
+                    "shell_harmonic_type": "spherical",
+                    "shell_region": "valence",
+                    "shell_angular_momentum": [
+                        0
+                    ],
+                    "shell_exponents": [
+                        "0.1612778"
+                    ],
+                    "shell_coefficients": [
+                        [
+                            "1.00000000"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,4 +1,480 @@
 {
+    "4-31g": {
+        "display_name": "4-31G",
+        "filebase": "4-31G",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "4-31G valence double-zeta basis set",
+                "revdesc": "Original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "15",
+                    "16",
+                    "17"
+                ]
+            }
+        }
+    },
+    "5-21g": {
+        "display_name": "5-21G",
+        "filebase": "5-21G",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "5-21G valence double-zeta basis set",
+                "revdesc": "Curated",
+                "elements": [
+                    "3",
+                    "4"
+                ]
+            }
+        }
+    },
+    "6-21g": {
+        "display_name": "6-21G",
+        "filebase": "6-21G",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-21G valence double-zeta basis set",
+                "revdesc": "Values from the original Basis Set Exchange",
+                "elements": [
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18"
+                ]
+            }
+        }
+    },
+    "6-31++g": {
+        "display_name": "6-31++G",
+        "filebase": "6-31PPG",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G",
+                "revdesc": "Values from original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ]
+            }
+        }
+    },
+    "6-31++g*": {
+        "display_name": "6-31++G*",
+        "filebase": "6-31PPGS",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G",
+                "revdesc": "Values from original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ]
+            }
+        }
+    },
+    "6-31++g**": {
+        "display_name": "6-31++G**",
+        "filebase": "6-31PPGSS",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G valence double-zeta with diffuse functions and polarization",
+                "revdesc": "Original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ]
+            }
+        }
+    },
+    "6-31+g": {
+        "display_name": "6-31+G",
+        "filebase": "6-31PG",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G",
+                "revdesc": "Values from original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ]
+            }
+        }
+    },
+    "6-31+g*": {
+        "display_name": "6-31+G*",
+        "filebase": "6-31PGS",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G",
+                "revdesc": "Values from original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ]
+            }
+        }
+    },
+    "6-31+g**": {
+        "display_name": "6-31+G**",
+        "filebase": "6-31PGSS",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G",
+                "revdesc": "Values from original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ]
+            }
+        }
+    },
+    "6-31g": {
+        "display_name": "6-31G",
+        "filebase": "6-31G",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G",
+                "revdesc": "Original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "25",
+                    "26",
+                    "27",
+                    "28",
+                    "29",
+                    "30",
+                    "31",
+                    "32",
+                    "33",
+                    "34",
+                    "35",
+                    "36"
+                ]
+            }
+        }
+    },
+    "6-31g*": {
+        "display_name": "6-31G*",
+        "filebase": "6-31GS",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G",
+                "revdesc": "Values from original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "25",
+                    "26",
+                    "27",
+                    "28",
+                    "29",
+                    "30",
+                    "31",
+                    "32",
+                    "33",
+                    "34",
+                    "35",
+                    "36"
+                ]
+            }
+        }
+    },
+    "6-31g**": {
+        "display_name": "6-31G**",
+        "filebase": "6-31GSS",
+        "latest_version": "0",
+        "family": "pople",
+        "role": "orbital",
+        "functiontypes": [
+            "gto"
+        ],
+        "auxiliaries": {},
+        "versions": {
+            "0": {
+                "description": "6-31G**",
+                "revdesc": "Original Basis Set Exchange",
+                "elements": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "25",
+                    "26",
+                    "27",
+                    "28",
+                    "29",
+                    "30",
+                    "31",
+                    "32",
+                    "33",
+                    "34",
+                    "35",
+                    "36"
+                ]
+            }
+        }
+    },
     "aug-cc-pv5z": {
         "display_name": "aug-cc-pV5Z",
         "filebase": "AUG-CC-PV5Z",
